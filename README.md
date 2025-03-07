@@ -22,11 +22,10 @@ Air pollution is a critical issue that affects the health and well-being of peop
 
 ## Benefits
 The air quality monitoring system provides numerous benefits, including:
-<ol>
-    <li>Helping individuals and communities stay informed about air quality in their area.</li>
-    <li>Providing real-time data that can be used by researchers and policymakers to make informed decisions.</li>
-    <li>Increasing awareness about the impact of air pollution on health and the environment.</li>
-</ol>
+ - Helping individuals and communities stay informed about air quality in their area.
+ - Providing real-time data that can be used by researchers and policymakers to make informed decisions.
+ - Increasing awareness about the impact of air pollution on health and the environment.
+
 
 ## Screenshoot Website
 ![image](https://github.com/syaifullahmad/monitoring-aq/blob/main/public/images/hasil/landing.png?raw=true)
