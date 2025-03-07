@@ -1,0 +1,25 @@
+/* Custom Dropdown Style */
+.custom-dropdown {
+    background-color: #f8f9fa; /* Light background */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2); /* Shadow for 3D effect */
+}
+
+.custom-dropdown li {
+    padding: 10px 15px; /* Padding for items */
+    border-bottom: 1px solid #ddd; /* Divider between items */
+}
+
+.custom-dropdown li:last-child {
+    border-bottom: none; /* Remove divider from the last item */
+}
+
+.custom-dropdown li a {
+    color: #333; /* Dark text color */
+    font-weight: 500; /* Medium font weight */
+}
+
+.custom-dropdown li a:hover {
+    background-color: #e0e0e0; /* Light hover background */
+    color: #000; /* Dark hover text color */
+}
